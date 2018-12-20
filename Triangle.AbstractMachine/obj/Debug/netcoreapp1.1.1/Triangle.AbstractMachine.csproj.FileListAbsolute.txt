@@ -1,0 +1,71 @@
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine/bin/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.deps.json
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine/bin/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.dll
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine/bin/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.pdb
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine/obj/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.csproj.CoreCompileInputs.cache
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine/obj/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.AssemblyInfoInputs.cache
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine/obj/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.AssemblyInfo.cs
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine/obj/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.dll
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine/obj/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.pdb
+C:\Users\Sanctuum\Desktop\Downloads\Triangle.NetCore.Student\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.deps.json
+C:\Users\Sanctuum\Desktop\Downloads\Triangle.NetCore.Student\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+C:\Users\Sanctuum\Desktop\Downloads\Triangle.NetCore.Student\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+C:\Users\Sanctuum\Desktop\Downloads\Triangle.NetCore.Student\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.csprojResolveAssemblyReference.cache
+C:\Users\Sanctuum\Desktop\Downloads\Triangle.NetCore.Student\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.csproj.CoreCompileInputs.cache
+C:\Users\Sanctuum\Desktop\Downloads\Triangle.NetCore.Student\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.AssemblyInfo.cs
+C:\Users\Sanctuum\Desktop\Downloads\Triangle.NetCore.Student\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+C:\Users\Sanctuum\Desktop\Downloads\Triangle.NetCore.Student\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.deps.json
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.AssemblyInfo.cs
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+H:\Desktop\Triangle.NetCore.Student\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.deps.json
+H:\Desktop\Triangle.NetCore.Student\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+H:\Desktop\Triangle.NetCore.Student\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+H:\Desktop\Triangle.NetCore.Student\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.csprojResolveAssemblyReference.cache
+H:\Desktop\Triangle.NetCore.Student\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.AssemblyInfo.cs
+H:\Desktop\Triangle.NetCore.Student\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+H:\Desktop\Triangle.NetCore.Student\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+D:\labs\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.deps.json
+D:\labs\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+D:\labs\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+D:\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.AssemblyInfo.cs
+D:\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+D:\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.deps.json
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.AssemblyInfo.cs
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.csprojResolveAssemblyReference.cache
+H:\Desktop\labs\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.deps.json
+H:\Desktop\labs\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+H:\Desktop\labs\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+H:\Desktop\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.AssemblyInfo.cs
+H:\Desktop\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+H:\Desktop\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.deps.json
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.AssemblyInfo.cs
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.csprojResolveAssemblyReference.cache
+H:\Desktop\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.csprojResolveAssemblyReference.cache
+G:\labs\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.deps.json
+G:\labs\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+G:\labs\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+G:\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.csprojResolveAssemblyReference.cache
+G:\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.AssemblyInfo.cs
+G:\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+G:\labs\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.deps.json
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.AssemblyInfo.cs
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb

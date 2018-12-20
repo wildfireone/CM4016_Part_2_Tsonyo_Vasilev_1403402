@@ -1,0 +1,70 @@
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine.Disassembler/bin/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.Disassembler.deps.json
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine.Disassembler/bin/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.Disassembler.runtimeconfig.json
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine.Disassembler/bin/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.Disassembler.runtimeconfig.dev.json
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine.Disassembler/bin/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.Disassembler.dll
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine.Disassembler/bin/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.Disassembler.pdb
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine.Disassembler/bin/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.dll
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine.Disassembler/bin/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.pdb
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine.Disassembler/obj/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.Disassembler.csproj.CoreCompileInputs.cache
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine.Disassembler/obj/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.Disassembler.AssemblyInfoInputs.cache
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine.Disassembler/obj/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.Disassembler.AssemblyInfo.cs
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine.Disassembler/obj/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.Disassembler.dll
+/Users/john/Projects/Triangle.NetCore.Student/Triangle.AbstractMachine.Disassembler/obj/Debug/netcoreapp1.1.1/Triangle.AbstractMachine.Disassembler.pdb
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.deps.json
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.runtimeconfig.json
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.runtimeconfig.dev.json
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.dll
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.pdb
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.AssemblyInfo.cs
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.dll
+E:\Visual Studio Projects\Triangle.NetCore.Student\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.pdb
+D:\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.deps.json
+D:\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.runtimeconfig.json
+D:\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.runtimeconfig.dev.json
+D:\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.dll
+D:\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.pdb
+D:\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+D:\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+D:\labs\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.csprojResolveAssemblyReference.cache
+D:\labs\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.AssemblyInfo.cs
+D:\labs\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.dll
+D:\labs\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.pdb
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.deps.json
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.runtimeconfig.json
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.runtimeconfig.dev.json
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.dll
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.pdb
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.AssemblyInfo.cs
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.dll
+E:\Visual Studio Projects\labs\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.pdb
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.deps.json
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.runtimeconfig.json
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.runtimeconfig.dev.json
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.dll
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.pdb
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.csprojResolveAssemblyReference.cache
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.AssemblyInfo.cs
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.dll
+\\nas-csdm.rgu.ac.uk\csdm-H\students\14\1403365\Desktop\labs\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.pdb
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.deps.json
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.runtimeconfig.json
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.runtimeconfig.dev.json
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.dll
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.pdb
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.dll
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine.Disassembler\bin\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.pdb
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.AssemblyInfo.cs
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.dll
+E:\Visual Studio Projects\CM4106 Compiler\Triangle.AbstractMachine.Disassembler\obj\Debug\netcoreapp1.1.1\Triangle.AbstractMachine.Disassembler.pdb
